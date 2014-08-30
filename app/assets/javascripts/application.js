@@ -10,6 +10,13 @@
 // WARNING: THE FIRST BLANK LINE MARKS THE END OF WHAT'S TO BE PROCESSED, ANY BLANK LINE SHOULD
 // GO AFTER THE REQUIRES BELOW.
 //
-//= require jquery
-//= require jquery_ujs
+//= require ../../../vendor/assets/javascripts/backbone.marionette/jquery
+//= require ../../../vendor/assets/javascripts/backbone.marionette/json2
+//= require ../../../vendor/assets/javascripts/backbone.marionette/underscore
+//= require ../../../vendor/assets/javascripts/backbone.marionette/backbone
+//= require ../../../vendor/assets/javascripts/backbone.marionette/backbone.babysitter
+//= require ../../../vendor/assets/javascripts/backbone.marionette/backbone.wreqr
+//= require ../../../vendor/assets/javascripts/backbone.marionette/backbone.marionette
+//= require glitch-mirror
+
 //= require_tree .
